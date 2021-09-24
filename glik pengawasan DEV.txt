@@ -1,0 +1,49 @@
+debitur wajib punya email
+
+qr code generate kode pembayaran
+
+catat transaksi ke server
+
+gps tracking
+
+-------------------------------
+
+login dulu baru keluar bdl
+
+ketika transaksi terdapat proses approval lalu dikirim ke akuntan di acc lalu kembali ke aplikasi bliss sinkron
+
+04c untuk akuntansi bdl
+
+hasil upload per masing2
+
+05a sesuai bdl
+
+persetujuan offline
+
+06a tl dan pelaksana menyesuaikan user login
+
+06e penawarannya input
+
+07a untuk audited isi per post(tidak upload)
+
+penambahan pengurangan masuk ke master bliss
+
+insentif terhitung bulanan
+
+11a. Lanap terdapat satu sumber data
+
+12.a saat input lapan tampil data lanap
+
+per kategori asset dipilih dalam pencairan aset
+
+TL input transaksi pic cek transaksi
+------------------------------------------------------------------------------
+
+dropdown kondisi debitur sbb:
+koperatif
+tidak koperatif
+tidak ditemukan meninggal
+tidak memiliki kemampuan bayar
+
+
+
