@@ -1,0 +1,2 @@
+tak perlu tabel relasi
+harus memenuhi spok, kalau tidak mmenuhi kaedah spo harus dikosongi\
